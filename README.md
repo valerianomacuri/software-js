@@ -1,77 +1,85 @@
 # Ciencias de la Computación con Javascript
 
-Esta es una pequeña guía para aprender de todo sobre Javascript, a mi me encanta el lenguaje y en mi busqueda me e encontrado con estos maravillosos libros que me ha hecho amar más el lenguaje. Espero lo disfruten.
+Esta es una pequeña guía para aprender de todo sobre desarrollo de software con Javascript, a mi me encanta el lenguaje y en mi busqueda me e encontrado con estos maravillosos libros que me ha hecho amar más el lenguaje. Espero lo disfruten.
 
-## Javascript Esencial
+## 01. Fundamentos de la Programación
 
-* Carlos Azaustre (2016): Aprende Javascript. Desconocido.
-* Ethan Brown (2016): Learning Javascript. O'Reilly Media.
+### Temas
 
-## Asincronismo
+- Pensamiento computacional y lógica
+- Variables, tipos de datos, condicionales, bucles
+- Funciones, arrays, diccionarios, cadenas
 
-* Diego de Granda (...): Curso de JavaScript Engine (V8) y el Navegador. Platzi. Recuperado de https://platzi.com/cursos/javascript-navegador/
+### Javascript y Typescript
 
-* Marijn Haverbeke (2018): Eloquent JavaScript (3rd edition). Asynchronous Programming. No Starch Press. Recuperado de https://eloquentjavascript.net/11_async.html
+- Carlos Azaustre (2016): Aprende Javascript. Desconocido.
+- Fernando Herrera (...): JavaScript Moderno: Guía para dominar el lenguaje. Udemy.
+- Fernando Herrera (...): TypeScript: Tu completa guía y manual de mano. Udemy.
 
-## Clean Code y SOLID
+### Programación funcional
 
-* Fernando Herrera (2022): Principios SOLID y Clean Code. Udemy.
+- Alex Banks & Eve Porcello (2020): Learning React. Functional Programming with JavaScript (Capítulo 3). O'Reilly Media.
+- Anto Aravinth & Srikanth Machiraju (2018): Beginning Functional JavaScript (2nd Edition). Apress.
 
-## Programación funcional
+## 2. Algoritmos y Estructuras de Datos
 
-* Alex Banks & Eve Porcello (2020): Learning React. Functional Programming with JavaScript (Capítulo 3). O'Reilly Media.
-* Anto Aravinth & Srikanth Machiraju (2018): Beginning Functional JavaScript (2nd Edition). Apress.
+### Temas
 
-## Algoritmos y estructuras de datos
+- Big O notation (análisis de complejidad)
+- Pilas, colas, listas enlazadas, árboles, grafos, hash tables
+- Recursión y búsqueda binaria
+- Algoritmos de sorting (bubble, merge, quick)
 
-* Diego De Granda (...): Curso de Estructuras de Datos con Javascript. Platzi. Recuperado de https://platzi.com/cursos/estructuras-datos/
+### Algoritmos y estructuras de datos
 
-* Michael McMillan (2016): Data Structures and Algorithms. O'Reilly Media.
-* Al Sweigart (2022): The Recursive Book of Recursion. No Starch Press.
+<!-- - Aditya Y. Bhargava (2024): Grokking Algorithms (2nd Edition). Manning Publications. -->
+- Diego De Granda (...): Curso de Estructuras de Datos con Javascript. Platzi. Recuperado de https://platzi.com/cursos/estructuras-datos/
 
-Otras referencias:
+## 3. Git y Control de Versiones
 
-* Newline.co (2019): Data Structures and Algorithms. Newline.co.
-* Sammie Bae (2019): JavaScript Data Structures and Algorithms. Apress.
+### Temas
 
-## Patrones de Diseño
+- git init, add, commit, push, pull
+- branching, merging, pull requests
+- flujo de trabajo GitHub
 
-* Hector de León (2022): Patrones de Diseño en Javascript y Typescript. Udemy.
+## 4. Desarrollo Web - Frontend
 
-## Análisis y calidad del software
+### Temas
 
-* Lucas da Costa (2021): Testing with Javascript. Manning Publishing.
-
-Otras referencias:
-
-* Juntao Qiu (2021): Test-Driven Development with React. Apress.
-
-## Paralelismo
-
-* Thomas Hunter & Bryan English (2021): Multithreaded JavaScript. O'Reilly Media.
-
-## La guía definitiva
-
-* David Flanagan (2020): JavaScript: The Definitive Guide. O'Reilly Media.
-
-## Otras técnologias
-
-### Frontend con React
-
-* Fernando Herrera (...): Todos los cursos de React. Udemy.
-* Alex Banks & Eve Porcello (2020): Learning React. O'Reilly Media.
-* Carlos Santana Roldan (2021): React 17 Design Patterns and Best Practices. Packt Publishing.
-
-### Backend con Node
-
-* Fernando Herrera (...): Node. De Cero a Experto. Udemy.
-* Ethan Brown (2019): Web Development with Node and Express. O'Reilly Media.
+- HTML5 semántico
+- CSS3 (Flexbox, Grid, responsive design)
+- JavaScript avanzado (ES6+, fetch, async/await)
+- Frameworks: React.js, Next.js
 
 ### Web Design
 
-* Jennifer Niederst Robbins (2018): Learning Web Design. O'Reilly Media.
+- Jennifer Niederst Robbins (2018): Learning Web Design. O'Reilly Media.
 
-### WebSockets
+### Asincronismo
 
-* Andrew Lombardi (2015): WebSocket: Lightweight Client-Server Communications. O'Reilly Media.
-* Fernando Herrera (...): React: Aplicaciones en tiempo real con Socket-io. Udemy.
+- Diego de Granda (...): Curso de JavaScript Engine (V8) y el Navegador. Platzi. Recuperado de https://platzi.com/cursos/javascript-navegador/
+- Marijn Haverbeke (2018): Eloquent JavaScript (3rd edition). Asynchronous Programming. No Starch Press. Recuperado de https://eloquentjavascript.net/11_async.html
+
+### Frontend con React
+
+- Fernando Herrera (...): React: De cero a experto ( Hooks y MERN ). Context API, MERN, Hooks, Firestore, JWT, Testing, Autenticaciones, Despliegues, CRUD, Logs, MUI, Multiple Routers, etc. Recuperado de https://www.udemy.com/course/react-cero-experto/
+- Alex Banks & Eve Porcello (2020): Learning React. O'Reilly Media.
+- Carlos Santana Roldan (2021): React 17 Design Patterns and Best Practices. Packt Publishing.
+- Fernando Herrera (...): React: Aplicaciones en tiempo real con Socket-io. Udemy.
+- Fernando Herrera (...) React PRO: Lleva tus bases al siguiente nivel. Storybook, Github Actions, publicar NPM, TypeScript, patrones de componentes, PWA, Formik, formularios dinámicos y más. Recuperado de https://www.udemy.com/course/react-pro/
+
+## 5. Desarrollo Móvil
+
+## 6. Patrones de Diseño y Clean Code
+
+### Temas
+
+- Patrones de diseño (GoF)
+- SOLID, DRY, KISS, YAGNI
+- Principios de calidad de software
+
+### Asignaturas
+
+- Fernando Herrera (2022): Principios SOLID y Clean Code. Udemy.
+- Hector de León (2022): Patrones de Diseño en Javascript y Typescript. Udemy.
