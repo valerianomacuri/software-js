@@ -1,4 +1,4 @@
-# Ciencias de la Computación con Javascript
+# Ingeniería de Software con Javascript
 
 Esta es una pequeña guía para aprender de todo sobre desarrollo de software con Javascript, a mi me encanta el lenguaje y en mi busqueda me e encontrado con estos maravillosos libros que me ha hecho amar más el lenguaje. Espero lo disfruten.
 
