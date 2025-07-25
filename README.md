@@ -32,7 +32,7 @@ Esta es una pequeña guía para aprender de todo sobre desarrollo de software co
 
 ### Algoritmos y estructuras de datos
 
-<!-- - Aditya Y. Bhargava (2024): Grokking Algorithms (2nd Edition). Manning Publications. -->
+- Aditya Y. Bhargava (2024): Grokking Algorithms (2nd Edition). Manning Publications.
 - Diego De Granda (...): Curso de Estructuras de Datos con Javascript. Platzi. Recuperado de https://platzi.com/cursos/estructuras-datos/
 
 ## 3. Git y Control de Versiones
@@ -59,15 +59,13 @@ Esta es una pequeña guía para aprender de todo sobre desarrollo de software co
 ### Asincronismo
 
 - Diego de Granda (...): Curso de JavaScript Engine (V8) y el Navegador. Platzi. Recuperado de https://platzi.com/cursos/javascript-navegador/
-- Marijn Haverbeke (2018): Eloquent JavaScript (3rd edition). Asynchronous Programming. No Starch Press. Recuperado de https://eloquentjavascript.net/11_async.html
 
 ### Frontend con React
 
 - Fernando Herrera (...): React: De cero a experto ( Hooks y MERN ). Context API, MERN, Hooks, Firestore, JWT, Testing, Autenticaciones, Despliegues, CRUD, Logs, MUI, Multiple Routers, etc. Recuperado de https://www.udemy.com/course/react-cero-experto/
-- Alex Banks & Eve Porcello (2020): Learning React. O'Reilly Media.
-- Carlos Santana Roldan (2021): React 17 Design Patterns and Best Practices. Packt Publishing.
-- Fernando Herrera (...): React: Aplicaciones en tiempo real con Socket-io. Udemy.
 - Fernando Herrera (...) React PRO: Lleva tus bases al siguiente nivel. Storybook, Github Actions, publicar NPM, TypeScript, patrones de componentes, PWA, Formik, formularios dinámicos y más. Recuperado de https://www.udemy.com/course/react-pro/
+- Fernando Herrera (...): React: Aplicaciones en tiempo real con Socket-io. Udemy.
+- Alex Banks & Eve Porcello (2020): Learning React. O'Reilly Media.
 
 ## 5. Desarrollo Móvil
 
@@ -83,3 +81,12 @@ Esta es una pequeña guía para aprender de todo sobre desarrollo de software co
 
 - Fernando Herrera (2022): Principios SOLID y Clean Code. Udemy.
 - Hector de León (2022): Patrones de Diseño en Javascript y Typescript. Udemy.
+
+
+## Otros recursos
+
+- Folder Structures in React Projects: https://dev.to/itswillt/folder-structures-in-react-projects-3dp8
+
+- Arquitectura CLEAN para React: https://daslaf.dev/posts/arquitectura-clean-react
+
+- Buenas prácticas para escribir commits en Git: https://midu.dev/buenas-practicas-escribir-commits-git
