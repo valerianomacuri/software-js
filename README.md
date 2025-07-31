@@ -7,8 +7,8 @@ Esta es una pequeña guía para aprender de todo sobre desarrollo de software co
 ### Temas
 
 - Pensamiento computacional y lógica
-- Variables, tipos de datos, condicionales, bucles
-- Funciones, arrays, diccionarios, cadenas
+- Variables, tipos de datos, estructura de controls (condicionales, bucles)
+- Funciones, arrays, objetos
 
 ### Javascript y Typescript
 
@@ -20,6 +20,10 @@ Esta es una pequeña guía para aprender de todo sobre desarrollo de software co
 
 - Alex Banks & Eve Porcello (2020): Learning React. Functional Programming with JavaScript (Capítulo 3). O'Reilly Media.
 - Anto Aravinth & Srikanth Machiraju (2018): Beginning Functional JavaScript (2nd Edition). Apress.
+
+### Programación Orientada a Objetos
+
+- Alexander Shvets (2019): Sumérgete en los patrones de diseño (Capítulo 1: FUNDAMENTOS DE LA POO). Refactoring.Guru.
 
 ## 2. Algoritmos y Estructuras de Datos
 
@@ -43,6 +47,11 @@ Esta es una pequeña guía para aprender de todo sobre desarrollo de software co
 - branching, merging, pull requests
 - flujo de trabajo GitHub
 
+### Asignaturas
+
+- Brais Moure (2023): Git y GitHub desde cero.
+- Miguel Angel Durán (2023): Aprendiendo Git.
+
 ## 4. Desarrollo Web - Frontend
 
 ### Temas
@@ -62,10 +71,10 @@ Esta es una pequeña guía para aprender de todo sobre desarrollo de software co
 
 ### Frontend con React
 
+- Alex Banks & Eve Porcello (2020): Learning React. O'Reilly Media.
 - Fernando Herrera (...): React: De cero a experto ( Hooks y MERN ). Context API, MERN, Hooks, Firestore, JWT, Testing, Autenticaciones, Despliegues, CRUD, Logs, MUI, Multiple Routers, etc. Recuperado de https://www.udemy.com/course/react-cero-experto/
 - Fernando Herrera (...) React PRO: Lleva tus bases al siguiente nivel. Storybook, Github Actions, publicar NPM, TypeScript, patrones de componentes, PWA, Formik, formularios dinámicos y más. Recuperado de https://www.udemy.com/course/react-pro/
 - Fernando Herrera (...): React: Aplicaciones en tiempo real con Socket-io. Udemy.
-- Alex Banks & Eve Porcello (2020): Learning React. O'Reilly Media.
 
 ## 5. Desarrollo Móvil
 
@@ -74,19 +83,18 @@ Esta es una pequeña guía para aprender de todo sobre desarrollo de software co
 ### Temas
 
 - Patrones de diseño (GoF)
-- SOLID, DRY, KISS, YAGNI
+- SOLID, DRY (Don't Repeat Yourself), KISS (Keep It Simple, Stupid), YAGNI (You Aren't Gonna Need It)
 - Principios de calidad de software
 
 ### Asignaturas
 
 - Fernando Herrera (2022): Principios SOLID y Clean Code. Udemy.
 - Hector de León (2022): Patrones de Diseño en Javascript y Typescript. Udemy.
-
+- Alexander Shvets (2019): Sumérgete en los patrones de diseño. Refactoring.Guru.
+- Miguel A. Gómez (2020): Clean JavaScript: Aprende a aplicar Código Limpio, SOLID y Testing.
 
 ## Otros recursos
 
 - Folder Structures in React Projects: https://dev.to/itswillt/folder-structures-in-react-projects-3dp8
-
 - Arquitectura CLEAN para React: https://daslaf.dev/posts/arquitectura-clean-react
-
 - Buenas prácticas para escribir commits en Git: https://midu.dev/buenas-practicas-escribir-commits-git
